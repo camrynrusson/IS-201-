@@ -1,0 +1,55 @@
+body{
+     background-image:url(https://garden.spoonflower.com/c/12692801/p/f/m/Dp-co-tdESTxooluS-891eX4mkzhL18DyyFG6MwDEG8FB8wCxE64/Off-White%20%2F%20Solid%20Cream%20%2F%20Light%20Cream.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     color: #bd5d38;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+img{
+border: 5px solid black;
+width: 100%;
+}
+.image-box {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 0px;
+    background-color: 00ffffff; 
+}
+.centerme{
+    display:block;
+    margin:auto; 
+}
+h1{
+    text-align: center
+}
+    h1{
+    background-color: rgba(0,0,0,0,.74)
+    }
+.common{
+    position: absolute;
+}
+.footer{
+    z-index:1;
+    position:fixed;
+    bottom:0px;
+    display:block;
+    text-align:center;
+    background-color:#bd5d38;
+    color: white
+}
+.header{
+    top:0px;
+    font-size:80pt;
+    margin: 20px auto;
+    text-align:center;
+    
+}
+.mainbody{
+    top:400px
+}
+.boldlist{
+    font-weight: bold;
+}
+ol{
+    margin: 40 px;
+}
